@@ -1,7 +1,7 @@
 # scrum
 
 
-# Backlog du projet consistant à réaliser un outil qui permet de faire la gestion des projets : 
+# Backlog du projet d'un projet de réalisation d'une application bancaire : 
 
 | Id |      User Story      |  Critère d'acceptation | Priorité |  Estimation |
 |:--:|:-----------------------------------------------------------------:|:-------------------------------------:|:-:|:-:|
